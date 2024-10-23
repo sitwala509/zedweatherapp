@@ -1,0 +1,32 @@
+{
+    "ip_address":"102.212.181.107",
+    "city":"Lusaka",
+    "city_geoname_id":909137,
+    "region":"Lusaka Province","region_iso_code":"09","region_geoname_id":909129,"postal_code":null,"country":"Zambia","country_code":"ZM",
+    "country_geoname_id":895949,
+    "country_is_eu":false,
+    "continent":"Africa",
+    "continent_code":"AF",
+    "continent_geoname_id":6255146,
+    "longitude":28.287,
+    "latitude":-15.4183,
+    "security":{"is_vpn":false},
+    "timezone":{
+        "name":"Africa/Lusaka",
+        "abbreviation":"CAT",
+        "gmt_offset":2,
+        "current_time":"12:47:48",
+        "is_dst":false},
+        "flag":
+            {"emoji":"🇿🇲",
+            "unicode":"U+1F1FF U+1F1F2",
+            "png":"https://static.abstractapi.com/country-flags/ZM_flag.png",
+            "svg":"https://static.abstractapi.com/country-flags/ZM_flag.svg"},
+        "currency":
+            {"currency_name":"Kwacha",
+            "currency_code":"ZMK"},
+            "connection":
+                {"autonomous_system_number":36962,"autonomous_system_organization":"MTN Zambia","connection_type":"Corporate","isp_name":"African Network Information Center - ( AfriNIC Ltd. )",
+                "organization_name":null
+                }
+            }
