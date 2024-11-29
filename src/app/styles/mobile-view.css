@@ -1,0 +1,43 @@
+
+@media screen and (max-width: 800px) {
+    .App h1 {
+        font-size: 2em;
+        width: 100%;
+    }
+    .search-form {
+        flex-wrap: wrap;
+        width: calc(100% - 100px);
+    }
+    .search-form input {
+        width: 70%;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+    .search-form button {
+        width: 40%;
+        margin: 0 auto;
+    }
+    .location-name {
+        padding: 0 10px;
+    }
+    .location-name span {
+        font-size: 2em;
+    }
+    .day-forcast h1 {
+        font-size: 2em;
+    }
+    footer {
+        padding: 0 10px;
+    }
+    .school-link ul {
+        display: flex;
+        justify-content: space-between;
+        margin: 15px;
+    }
+    footer .ward {
+        font-size: 1.4em;
+    }
+    footer .copyright {
+        margin: 0 0 10px 0;
+    }
+}
